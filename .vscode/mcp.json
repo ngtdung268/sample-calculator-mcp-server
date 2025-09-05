@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"mcp-calc-server": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"C:\\Users\\DungNT\\Codes\\learn-mcp\\McpCalcServer\\McpCalcServer.csproj"
+			]
+		}
+	},
+	"inputs": []
+}
